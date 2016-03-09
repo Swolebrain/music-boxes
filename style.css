@@ -1,5 +1,8 @@
 body{
     background-color: black;
+  font-family: 'Trebuchet MS';
+  color: white;
+  text-align: center;
 }
 
 #instrument{
